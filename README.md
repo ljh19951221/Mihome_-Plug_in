@@ -5,8 +5,12 @@
 基于米家的 --扩展插件界面展示。
 已提供商用，源码不予开放。
 
-![一](/img/1.jpg =100x100 "图一")![二](/img/2.jpg "图二")![三](/img/3.jpg "图三")
-![四](/img/4.jpg "图四")![五](/img/5.jpg "图五")![六](/img/6.jpg "图六")![七](/img/7.jpg "图七")
-![八](/img/8.jpg "图八")
-
+<img src="/img/1.jpg" width = "400" alt="图一"/>
+<img src="/img/2.jpg" width = "400" alt="图二"/>
+<img src="/img/3.jpg" width = "400" alt="图三"/>
+<img src="/img/4.jpg" width = "400" alt="图四"/>
+<img src="/img/5.jpg" width = "400" alt="图五"/>
+<img src="/img/6.jpg" width = "400" alt="图六"/>
+<img src="/img/7.jpg" width = "400" alt="图七"/>
+<img src="/img/8.jpg" width = "400" alt="图八"/>
 
